@@ -1,6 +1,7 @@
-package ru.mirea.task17.opt1;
+package ru.mirea.task17.opt2;
 
 import java.util.Random;
+
 public class Question {
     Random rand = new Random();
     Answers ask() {
@@ -23,4 +24,3 @@ public class Question {
 
     }
 }
-
