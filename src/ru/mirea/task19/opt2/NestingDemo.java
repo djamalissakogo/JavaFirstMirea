@@ -16,7 +16,7 @@ class NestingDemo{
                     System.out.println(arr[10]);
                 }catch(ArithmeticException e){
                     System.out.print("Arithmetic Exception");
-                    System.out.println(" handled in try-block3");
+                    System.out.println(" handled in t    ry-block3");
                 }
             }
             catch(ArithmeticException e){
